@@ -1,0 +1,296 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{45, 320}, {128, 41}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "check_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "395336B5-F434-41AC-B5BF-0D17BAA76D21",
+          "class" : "Button",
+          "name" : "check_button",
+          "font_size" : 25
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{52, 80}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_one_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{293, 80}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_two_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{530, 80}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "computer_card_three_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{52, 443}, {152, 219}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "player_card_one_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "6C69DCFF-BC0E-47E2-BA5C-B411ECF7FE35",
+          "class" : "Button",
+          "name" : "player_card_one_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{37, 0}, {188, 57}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "BB8952A9-5C27-440C-93A8-71AEA9566714",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Dealers cards:",
+          "name" : "info_label",
+          "font_size" : 25
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{52, 378}, {188, 57}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "BB8952A9-5C27-440C-93A8-71AEA9566714",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Players cards:",
+          "font_size" : 25,
+          "name" : "info_label"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{52, 443}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_one_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{293, 443}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_two_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{530, 443}, {152, 219}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "player_card_three_imageview",
+          "uuid" : "5F5A0008-CB99-42EB-892B-81EF857405D0"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{293, 443}, {152, 219}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "player_card_two_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "6C69DCFF-BC0E-47E2-BA5C-B411ECF7FE35",
+          "class" : "Button",
+          "name" : "player_card_two_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{530, 443}, {152, 219}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "player_card_three_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "",
+          "uuid" : "6C69DCFF-BC0E-47E2-BA5C-B411ECF7FE35",
+          "class" : "Button",
+          "name" : "player_card_three_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{795, 582}, {119, 46}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "reset_button_touch_up_inside",
+          "border_width" : 3,
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Reset",
+          "uuid" : "9F1A79E0-A4F8-4418-976A-7C9AB21AB29D",
+          "class" : "Button",
+          "corner_radius" : 10,
+          "name" : "reset_button",
+          "font_size" : 25
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{730, 462}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "4B1169CB-07D6-436B-804D-0DD9AD7959FA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Player Total:",
+          "name" : "player_total_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{730, 97}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "614B761A-570D-4C11-98DF-3FDA27B21830",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Dealer Total:",
+          "name" : "computer_total_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{293, 346}, {389, 53}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "73B8809B-ED16-437B-BC8C-08A7AD435D84",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "result_label",
+          "font_size" : 25
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{449, 16}, {128, 41}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "play_button_touch_up_inside",
+          "border_width" : 3,
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Play",
+          "uuid" : "395336B5-F434-41AC-B5BF-0D17BAA76D21",
+          "class" : "Button",
+          "corner_radius" : 10,
+          "name" : "play_button",
+          "font_size" : 25
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
